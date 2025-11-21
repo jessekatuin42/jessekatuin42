@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jesse%20Katuin&fontSize=50&fontColor=ffffff&animation=twinkling"/>
@@ -7,9 +5,7 @@
 
 <div align="center">
 
-# 🌟 Jesse Katuin
-
-### 🏗️ Hosting Engineer × ☸️ Kubernetes Specialist × 🛠️ Open-Source Builder
+### 🏗️ Hosting Engineer × ☸️ Kubernetes Engineer × 🛠️ Open-Source Builder
 
 *Designing scalable, automated, open-source-powered infrastructure for the modern cloud.*
 
@@ -47,7 +43,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -57,11 +52,11 @@
 
 <div align="center">
 
-![Jesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessekatuin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![Jesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessekatuin42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessekatuin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jessekatui42&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessekatuin&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessekatuin42&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
 
@@ -100,11 +95,11 @@ mindmap
 
 <div align="center">
 
-| 🔥 **Currently Working On** | 🚀 **Exploring** | 🎯 **Goals 2025** |
+| 🔥 **Currently Working On** | 🚀 **Exploring** | 🎯 **Goals 2026** |
 |:---|:---|:---|
-| Automating large-scale hosting deployments | Cluster autoscaling | Expand OSS contributions |
-| Building GitLab-based CI/CD pipelines | Edge + lightweight K8s | Streamline HA virtualization |
-| Running my own hosting company | K8s security hardening | Launch new IaC modules |
+| building automatic vm deploys with a panel | K8S ArgoCD | kubestronaut |
+| Building GitLab-based CI/CD pipelines | Talos and kubevirt | K8S deploys for customors |
+| Complete company in code | Talos deploys with ceph | Complete company in code |
 
 </div>
 
@@ -114,7 +109,7 @@ mindmap
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jessekatuin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jessekatuin42&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
 </div>
 
